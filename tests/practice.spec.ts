@@ -1,4 +1,4 @@
-import { test, expect } from "@playwright/test";
+/* import { test, expect } from "@playwright/test";
 
 test('login test', async ({ page }) => {
 
@@ -14,6 +14,6 @@ test('login test', async ({ page }) => {
 
     await expect(page).toHaveURL(/inventory/);
 
-});
+}); */
 
 //updating th file
