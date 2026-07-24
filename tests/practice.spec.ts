@@ -15,3 +15,5 @@ test('login test', async ({ page }) => {
     await expect(page).toHaveURL(/inventory/);
 
 });
+
+//updating th file
